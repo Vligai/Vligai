@@ -1,1 +1,1 @@
-![Terminal](carbon.svg)
+![Terminal](carbon.png)
