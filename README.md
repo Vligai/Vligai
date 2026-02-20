@@ -1,1 +1,1 @@
-![Terminal](carbon.png)
+<img src="carbon.png" width="85%" alt="Terminal" />
