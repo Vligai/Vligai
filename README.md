@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="vligai.svg" width="70%" alt="Terminal" />
+<img src="vligai.svg" width="80%" alt="Terminal" />
 
 </div>
